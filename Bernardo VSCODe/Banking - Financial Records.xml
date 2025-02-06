@@ -1,0 +1,15 @@
+<bankTransaction>
+    <transactionID>RC123456789</transactionID>
+    <accountNumber>9876543210</accountNumber>
+    <accountHolder>Kazuya Mishima</accountHolder>
+    <processedBy>James Smith</processedBy>
+    <transactions>
+        <transact>
+            <transactionDate>2025-02-06</transactionDate>
+            <transactionType>Deposit</transactionType>
+            <amount>1500.00</amount>
+            <balanceAfterTransaction>5000.00</balanceAfterTransaction>
+            <branch>Shanghai Branch</branch>
+        </transact>
+    </transactions>
+</bankTransaction>

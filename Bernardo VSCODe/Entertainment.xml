@@ -1,0 +1,23 @@
+<stream>
+    <movieid>987654</movieid>
+    <movietitle>Avengers: Endgame</movietitle>
+    <releaseDate>2019-04-26</releaseDate>
+    <genre>Action, Sci-Fi</genre>
+    <streamingPlatform>Disney+</streamingPlatform>
+    <actors>
+        <actor>
+            <name>Robert Downey Jr.</name>
+            <character>Iron Man</character>
+        </actor>
+        <actor>
+            <name>Chris Evans</name>
+            <character>Captain America</character>
+        </actor>
+        <actor>
+            <name>Scarlett Johansson</name>
+            <character>Black Widow</character>
+        </actor>
+    </actors>
+    <director>Anthony Russo, Joe Russo</director>
+    <duration>181 minutes</duration>
+</stream>

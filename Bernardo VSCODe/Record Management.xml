@@ -1,0 +1,21 @@
+<student>
+    <sid>2023001</sid>
+    <sname>Kobe Bryant</sname>
+    <doe>2002-05-15</doe>
+    <major>Information Technology</major>
+    <courses>
+        <course>
+            <courseCode>IT101</courseCode>
+            <courseTitle>Introduction to Programming</courseTitle>
+            <credits>3</credits>
+            <instructor>Professor Hibo</instructor>
+        </course>
+        <course>
+            <courseCode>IT202</courseCode>
+            <courseTitle>Systems Integration and Architecture 1</courseTitle>
+            <credits>4</credits>
+            <instructor>Dr. Ralph Luis Lee</instructor>
+        </course>
+    </courses>
+    <status>Active</status>
+</student>

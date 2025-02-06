@@ -1,0 +1,20 @@
+<sarisaritem>
+    <barid> 3788230 </barid>
+    <itemid> SafeGuard Soap </itemid>
+    <manudate> 12-15-2024 </manudate>
+    <expidate> 12-20-2027 </expidate>
+    <transaction>
+        <transactionmade>
+            <customer> Henry Sy </customer>
+            <date> 1-10-2025 </date>
+            <cashier> Joe </cashier>
+            <totalsum> 200.00 </totalsum>
+        </transactionmade>
+        <transactionmade>
+            <customer> Luka Doncic </customer>
+            <date> 1-10-2025 </date>
+            <cashier> Nikki </cashier>
+            <totalsum> 200.00 </totalsum>
+        </transactionmade>
+    </transaction>
+</sarisaritem>

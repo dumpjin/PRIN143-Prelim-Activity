@@ -1,0 +1,18 @@
+{
+    "bankTransaction": {
+      "transactionID": "RC123456789",
+      "accountNumber": "9876543210",
+      "accountHolder": "Kazuya Mishima",
+      "processedBy": "James Smith",
+      "transactions": [
+        {
+          "transactionDate": "2025-02-06",
+          "transactionType": "Deposit",
+          "amount": 1500.00,
+          "balanceAfterTransaction": 5000.00,
+          "branch": "Shanghai Branch"
+        }
+      ]
+    }
+  }
+  

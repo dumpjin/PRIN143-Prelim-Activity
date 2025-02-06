@@ -1,0 +1,22 @@
+{
+    "politisyanProfile": {
+      "poliid": 101,
+      "name": "Michael Jordan",
+      "party": "Pogi Party",
+      "position": "Senator",
+      "region": "Philippines",
+      "politicalExperience": [
+        {
+          "title": "Mayor",
+          "location": "Barangay Sansinukob",
+          "years": "2010-2018"
+        },
+        {
+          "title": "Congressman",
+          "location": "Barangay PDF",
+          "years": "2018-2024"
+        }
+      ]
+    }
+  }
+  

@@ -1,0 +1,19 @@
+<politisyanProfile>
+    <poliid>101</poliid>
+    <name>Michael Jordan</name>
+    <party>Pogi Party</party>
+    <position>Senator</position>
+    <region>Philippines</region>
+    <politicalExperience>
+        <experience>
+            <title>Mayor</title>
+            <location>Barangay Sansinukob</location>
+            <years>2010-2018</years>
+        </experience>
+        <experience>
+            <title>Congressman</title>
+            <location> Baranagay PDF </location>
+            <years>2018-2024</years>
+        </experience>
+    </politicalExperience>
+</politisyanProfile>

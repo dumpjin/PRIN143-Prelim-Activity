@@ -1,0 +1,25 @@
+{
+    "sarisaritem": {
+      "barid": 3788230,
+      "itemid": "SafeGuard Soap",
+      "manudate": "12-15-2024",
+      "expidate": "12-20-2027",
+      "transaction": {
+        "transactionmade": [
+          {
+            "customer": "Henry Sy",
+            "date": "1-10-2025",
+            "cashier": "Joe",
+            "totalsum": 200.00
+          },
+          {
+            "customer": "Luka Doncic",
+            "date": "1-10-2025",
+            "cashier": "Nikki",
+            "totalsum": 200.00
+          }
+        ]
+      }
+    }
+  }
+  
